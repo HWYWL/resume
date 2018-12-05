@@ -18,6 +18,7 @@ public class PageController {
 
     @RequestMapping("/page.html")
     public String page(){
+
         return "page";
     }
 }

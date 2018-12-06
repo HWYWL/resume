@@ -2,10 +2,6 @@ a.btn.btn-md.btn-black-outline.display-4 {
     display: none !important;
 }
 
-img[src="assets/images/1-5.jpg"] {
-    width: 300px;
-}
-
 /* DEMO-SPECIFIC STYLES */
 .typing {
   color: #fff;
